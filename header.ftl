@@ -35,11 +35,11 @@
                 ${archiveLabel}
             </a>
           </li>
-          <li>
-            <a rel="archive" href="${servePath}/links.html">
+          <!--li>
+            <a rel="links" href="${servePath}/links.html">
               <i class="icon-link"></i> ${linkLabel}
             </a>
-          </li>
+          </li-->
           <#if isLoggedIn>
             <li>
               <a href="${servePath}/admin-index.do#main" title="${adminLabel}">
@@ -57,11 +57,11 @@
                 ${loginLabel}
               </a>
             </li>
-            <li>
+            <!--li>
               <a href="${servePath}/register">
                 ${registerLabel}
               </a>
-            </li>
+            </li-->
           </#if>
         </ul>
       </div>

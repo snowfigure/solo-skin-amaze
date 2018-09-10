@@ -21,10 +21,11 @@
     <div class="blog-text-center">
         ${footerContent}
         &copy; ${year}
-        <a href="${servePath}">${blogTitle}</a>  &nbsp; &sdot; &nbsp;
-        苏ICP备14019371号-2  &nbsp; &sdot; &nbsp;
-        <a href="https://solo.b3log.org" target="_blank">Solo</a> ${version}   &nbsp; &sdot; &nbsp;
-        <a rel="friend" href="https://github.com/spiritree/typecho-theme-amaze" target="_blank"> Amaze</a>
+        <a href="${servePath}">${blogTitle}</a>   &sdot;
+        苏ICP备14019371号-2   &sdot;
+        <a href="https://solo.b3log.org" target="_blank">Solo</a> ${version}    &sdot;
+        <a rel="friend" href="https://github.com/spiritree/typecho-theme-amaze" target="_blank"> Amaze</a>   &sdot;
+        <a rel="links" href="${servePath}/links.html"> ${linkLabel}</a>
     </div>
 </footer>
 <div class="icon-up" onclick="Util.goTop()"></div>
