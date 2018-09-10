@@ -19,14 +19,12 @@
 -->
 <footer class="footer blog-footer">
     <div class="blog-text-center">
-        &copy; ${year}
         ${footerContent}
-        <a href="${servePath}">${blogTitle}</a>  &nbsp;   • &nbsp;
-        <a href="https://solo.b3log.org" target="_blank">Solo</a> ${version}  <br/>
-
-        Powered by <a href="https://b3log.org" target="_blank">B3log</a> 开源 &nbsp;
-        <span class="ft-warn">&heartsuit;</span>
-        Theme <a rel="friend" href="https://github.com/spiritree/typecho-theme-amaze" target="_blank"> Amaze</a> by <a href="https://github.com/spiritree" target="_blank">spiritree</a> & <a href="https://github.com/zjhch123" target="_blank">Jiahao.Zhang</a>
+        &copy; ${year}
+        <a href="${servePath}">${blogTitle}</a>  &nbsp; &sdot; &nbsp;
+        苏ICP备14019371号-2  &nbsp; &sdot; &nbsp;
+        <a href="https://solo.b3log.org" target="_blank">Solo</a> ${version}   &nbsp; &sdot; &nbsp;
+        <a rel="friend" href="https://github.com/spiritree/typecho-theme-amaze" target="_blank"> Amaze</a>
     </div>
 </footer>
 <div class="icon-up" onclick="Util.goTop()"></div>
