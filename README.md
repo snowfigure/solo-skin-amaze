@@ -1,4 +1,4 @@
-# solo-skin-amaze
+# solo-skin-amaze.snowfigure
 blog solo's skin - amaze
 
-[preview](https://blog.hduzplus.xyz)
+[preview](https://www.791211.com/)
